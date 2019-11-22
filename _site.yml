@@ -1,0 +1,9 @@
+name: "Megan Barkdull"
+output_dir: "."
+navbar:
+  title: "Megan Barkdull"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
