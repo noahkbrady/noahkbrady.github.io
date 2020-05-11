@@ -1,5 +1,8 @@
 ---
 title: "MEGAN BARKDULL"
+output: 
+  html_document:
+    css: 'CSSFonts.css'
 ---
 <style type="text/css">
 

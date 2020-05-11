@@ -1,5 +1,8 @@
 --- 
 title: "Research"
+output: 
+  html_document:
+    css: ['CSSBackgrounds.css', 'CSSFonts.css']
 ---
 
 <style type="text/css">
