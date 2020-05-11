@@ -3,6 +3,8 @@ title: "CURRICULUM VITAE"
 output: 
   html_document:
     css: ['CSSBackgrounds.css', 'CSSFonts.css']
+    includes:
+      after_body: footer.html
 ---
 
 Please click [HERE](Barkdull_CV_May2020.pdf) for my CV. 

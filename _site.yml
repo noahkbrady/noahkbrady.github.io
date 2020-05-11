@@ -11,3 +11,5 @@ navbar:
       href: research.html
     - text: "CV"
       href: cv.html
+    - text: "Contact"
+      href: contact.html

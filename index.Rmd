@@ -3,6 +3,8 @@ title: "MEGAN BARKDULL"
 output: 
   html_document:
     css: 'CSSFonts.css'
+    includes:
+      after_body: footer.html
 ---
 <style type="text/css">
 

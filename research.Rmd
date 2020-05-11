@@ -3,6 +3,8 @@ title: "Research"
 output: 
   html_document:
     css: ['CSSBackgrounds.css', 'CSSFonts.css']
+    includes:
+      after_body: footer.html
 ---
 
 <style type="text/css">

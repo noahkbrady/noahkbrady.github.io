@@ -3,6 +3,8 @@ title: "I am Megan Barkdull."
 output: 
   html_document:
     css: ['CSSBackgrounds.css', 'CSSFonts.css']
+    includes:
+      after_body: footer.html
 ---
 
 <script>
@@ -25,5 +27,3 @@ During my gap year, I took part in a number of research activities here at Corne
 
 
 When I’m not running PCRs in the lab, I enjoy hiking, nature photography, watercolor painting, and cooking. I am also interested in science communication, and am active on Twitter. See the Contact page for details.  
-
-<a href="https://twitter.com/meganbarkdull_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @meganbarkdull_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
