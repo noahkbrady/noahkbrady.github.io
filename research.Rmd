@@ -1,0 +1,24 @@
+--- 
+title: "Research"
+---
+
+<style type="text/css">
+
+.author,.title{
+    display: none;
+}
+
+</style>
+
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"headshot.jpeg\" style=\"float: left;width: 300px;padding: 20px\"/>')
+   });
+</script>
+
+
+### WHAT ARE THE GENES THAT UNDERLIE COMPLEX ADAPTIVE PHENOTYPES? 
+Throughout my population genetics work, I had the nagging feeling that simply measuring genetic diversity of neutral markers is insufficient for truly understanding a species’ adaptive potential. From conservation genetics studies, we can confidently identify the populations of an endangered species with the greatest microsatellite allelic richness. But does this mean that these are the populations with the most diverse genetic substrate for adaptation, the populations to prioritize for conservation? Unclear. 
+
+On the other hand, if we identify a set of genes that help determine, for example, thermal physiology, we can directly measure diversity at these loci and make specific recommendations about how to manage populations to maximize resilience in the face of climate change. In my graduate studies, I plan to use the techniques of functional genomics both to better understand the connection between genotype and complex phenotypes and to develop this kind of functional marker for use in population and conservation genetics studies. My goal is to take steps toward marrying the established aims of conservation genetics with the emerging methods and findings of functional genomics.
