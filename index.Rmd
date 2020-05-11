@@ -1,5 +1,15 @@
 ---
-title: "Personal Website"
+title: "MEGAN BARKDULL"
 ---
+<style type="text/css">
 
-Hello, World!
+h1.title {
+  font-size: 60px;
+  color: ;
+  text-align: center;
+}
+</style>
+
+![](ant.jpg)
+
+<center> Insects. Genomics. Complex traits. </center>
