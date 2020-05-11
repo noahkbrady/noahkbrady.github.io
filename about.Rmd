@@ -2,6 +2,13 @@
 title: "I am Megan Barkdull."
 ---
 
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"websitesidebar.png\" style=\"float: right;width: 150px;\"/>')
+   });
+</script>
+
 I am an evolutionary biologist with an interest in the genetics underlying complex traits in ants. I started my graduate studies in August 2019, in the lab of Dr. Corrie Moreau in the Department of Ecology and Evolutionary Biology at Cornell University. 
 
 While completing my undergraduate degree at New College of Florida, I participated in conservation genetics studies of the federally-listed Dakota Skipper butterfly (Hesperia dacotae) and of the rare Florida Duskywing Skipper (Ephyriades brunnea). These projects used microsatellite markers to describe patterns of genetic drift, population isolation, and genetic diversity in each species. 
