@@ -22,6 +22,7 @@ output:
    });
 </script>
 
+<span style="color: #E1DBE5;">.</span> 
 
 ### WHAT ARE THE GENES THAT UNDERLIE COMPLEX ADAPTIVE PHENOTYPES? 
 Throughout my population genetics work, I had the nagging feeling that simply measuring genetic diversity of neutral markers is insufficient for truly understanding a species’ adaptive potential. From conservation genetics studies, we can confidently identify the populations of an endangered species with the greatest microsatellite allelic richness. But does this mean that these are the populations with the most diverse genetic substrate for adaptation, the populations to prioritize for conservation? Unclear. 
