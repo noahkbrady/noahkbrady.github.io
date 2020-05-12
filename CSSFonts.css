@@ -13,3 +13,5 @@ body {
 p {
   font-family: 'Montserrat', sans-serif;
 }
+
+a { color: #814FA0; } /* CSS link color */

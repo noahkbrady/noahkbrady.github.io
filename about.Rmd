@@ -14,7 +14,7 @@ output:
    });
 </script>
 
-I am an evolutionary biologist with an interest in the genetics underlying complex traits in ants. I started my graduate studies in August 2019, in the lab of Dr. Corrie Moreau in the Department of Ecology and Evolutionary Biology at Cornell University. 
+I am an evolutionary biologist with an interest in the genetics underlying complex traits in ants. I started my graduate studies in August 2019, in the lab of [Dr. Corrie Moreau](http://www.moreaulab.entomology.cornell.edu/people/corrie-moreau/) in the Department of Ecology and Evolutionary Biology at Cornell University. 
 
 
 While completing my undergraduate degree at New College of Florida, I participated in conservation genetics studies of the federally-listed Dakota Skipper butterfly (Hesperia dacotae) and of the rare Florida Duskywing Skipper (Ephyriades brunnea) in the lab of [Dr. Emily Saarinen](https://www.ncf.edu/directory/listing/emily-saarinen/). These projects used microsatellite markers to describe patterns of genetic drift, population isolation, and genetic diversity in each species. 
