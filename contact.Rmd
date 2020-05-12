@@ -17,7 +17,7 @@ mb2337 at cornell dot edu
 
 <!-- Embedding my twitter timeline in the contact page; go to this site to get your own: https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" href="https://twitter.com/meganbarkdull_?ref_src=twsrc%5Etfw">Tweets by meganbarkdull_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/meganbarkdull_?ref_src=twsrc%5Etfw" data-tweet-limit="3" data-width="500">Tweets by meganbarkdull_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
 
 <!-- Including CSSmics.css in the yaml at the beginning of this file adds the large formatted social media icons to this page.  -->
 
