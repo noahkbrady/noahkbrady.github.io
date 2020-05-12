@@ -305,6 +305,7 @@ $(document).ready(function () {
 </div>
 
 
+<!-- This hides the title "Research" from this page, since I wanted to have a display title that is different from the page title.  -->
 <style type="text/css">
 
 .author,.title{
@@ -312,12 +313,14 @@ $(document).ready(function () {
 }
 
 </style>
+<!-- This adds my headshot, floating to the left of the text and with 20 pixels of padding around it.  -->
 <script>
    $(document).ready(function() {
      $head = $('#header');
      $head.prepend('<img src=\"headshot.jpeg\" style=\"float: left;width: 300px;padding: 20px\"/>')
    });
 </script>
+<!-- This is a hacky way of lowering the title text slightly by inserting a period that is the same color as the background. I'll want to improve this eventually.  -->
 <p><span style="color: #E1DBE5;">.</span></p>
 <div id="what-are-the-genes-that-underlie-complex-adaptive-phenotypes" class="section level3">
 <h3>WHAT ARE THE GENES THAT UNDERLIE COMPLEX ADAPTIVE PHENOTYPES?</h3>

@@ -7,6 +7,8 @@ output:
       after_body: footer.html
 ---
 
+<!-- This adds the floating image of my study organisms to the right of the text.  -->
+
 <script>
    $(document).ready(function() {
      $head = $('#header');
