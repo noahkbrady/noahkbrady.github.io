@@ -1,0 +1,21 @@
+--- 
+title: "Art"
+output: 
+  html_document:
+    css: CSSFonts.css
+    includes:
+      after_body: footer.html
+---
+
+In my free time, I enjoy creating art- mostly digital drawings, ink drawings, and watercolors. 
+
+I love making art for logos, email signatures, and other uses! Shoot me an [email](contact.html) if you'd like to talk about this. 
+
+![](./insectorders.png)
+![](./leafhopper.png)
+
+![](./ant.png)
+
+
+
+![](./valantine.png)
