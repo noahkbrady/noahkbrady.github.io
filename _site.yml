@@ -10,7 +10,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: cv.html
+      href: https://github.com/mbarkdull/CV/blob/master/MeganCV.pdf
     - text: "Art"
       href: art.html
     - text: "Contact"
