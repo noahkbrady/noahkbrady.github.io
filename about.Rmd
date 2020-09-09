@@ -7,25 +7,17 @@ output:
       after_body: footer.html
 ---
 
-<!-- This adds the floating image of my study organisms to the right of the text.  -->
+<!-- This adds my headshot, floating to the left of the text and with 20 pixels of padding around it.  -->
 
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"websitesidebar.png\" style=\"float: right;width: 150px;\"/>')
+     $head.prepend('<img src=\"headshot.jpeg\" style=\"float: left;width: 300px;padding: 20px\"/>')
    });
 </script>
 
-I am an evolutionary biologist with an interest in the genetics underlying complex traits in ants. I started my graduate studies in August 2019, in the lab of [Dr. Corrie Moreau](http://www.moreaulab.entomology.cornell.edu/people/corrie-moreau/) in the Department of Ecology and Evolutionary Biology at Cornell University. 
+I am an evolutionary biologist with an interest in the genetics underlying complex traits in ants. I started my graduate studies in August 2019, in the lab of [Dr. Corrie Moreau](http://www.moreaulab.entomology.cornell.edu/people/corrie-moreau/) in the Department of Ecology and Evolutionary Biology at Cornell University. I'm currently investigating patterns of molecular evolution associated with different manifestations of phenotypic plasticity in ants. 
 
+If I’m not running analyses and writing scripts, I might be found [thinking about, and working toward,](https://docs.google.com/document/d/1CmyBVG3H-OBqUIomPKoBPwLVUdLC1WWtvhH836ZeJ7o/edit?usp=sharing) making ecology and evolutionary biology a better, more anti-racist space through my departmental roles as a graduate student, member of Cornell EEB Seminar series committee, and Cornell EEB Graduate Student Association co-president. 
 
-While completing my undergraduate degree at New College of Florida, I participated in conservation genetics studies of the federally-listed Dakota Skipper butterfly (Hesperia dacotae) and of the rare Florida Duskywing Skipper (Ephyriades brunnea) in the lab of [Dr. Emily Saarinen](https://www.ncf.edu/directory/listing/emily-saarinen/). These projects used microsatellite markers to describe patterns of genetic drift, population isolation, and genetic diversity in each species. 
-
-
-During the summer of 2017, I worked with scientists at the American Museum of Natural History to determine which genes are most effective at identifying the vertebrate hosts of terrestrial bloodfeeding leeches, using DNA derived from the leech gut. I also examined the diversity of parasites harbored by the leeches in our dataset. For a PDF of the paper that came from this project, click [here](Siddall2019_IdeatingIDNA.pdf). I returned to the AMNH in spring of 2019 to assist with another leech project, this time using bloodmeal DNA to determine the origin of leeches smuggled into the Toronto International Airport. For a PDF of the paper that came from this project, click [here.](Williams2020_CaughtRedHandedIDNAPointsToWil.pdf)
-
-
-During my gap year, I took part in a number of research activities here at Cornell. Working with two researchers at the Lab of Ornithology, I analyzed birdsong recordings to understand how [vocal learning shapes evolution](https://marceloarayasalas.weebly.com/) and diversification, and how [complexity in female vs. male songs has evolved](https://femalebirdsong.org/). I also continued to build on my population genetics background as a post-baccalaureate intern in [Dr. Kelly Zamudio’s lab](https://zamudiolab.org/), assisting  lab members with data analyses and wet-lab work. 
-
-
-When I’m not running PCRs in the lab, I enjoy hiking, nature photography, [creating art](art.html), and cooking. I am also interested in science communication, and am active on Twitter. See the Contact page for details.  
+I also enjoy hiking, nature photography, [creating art](art.html), and cooking. 
