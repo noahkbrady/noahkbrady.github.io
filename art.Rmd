@@ -9,7 +9,7 @@ output:
 
 In my free time, I enjoy creating art- mostly digital drawings, ink drawings, and watercolors. 
 
-I love making art for logos, email signatures, and other uses! Shoot me an [email](contact.html) if you'd like to talk about this. 
+I love making art for logos, email signatures, and other uses! Shoot me an [email](contact.html) if you'd like to talk about this. You can also get prints of many of my pieces on my [Society6 page](https://society6.com/certainslantsoflight/all). 
 
 ![](./insectorders.png)
 ![](./leafhopper.png)
@@ -17,6 +17,7 @@ I love making art for logos, email signatures, and other uses! Shoot me an [emai
 ![](./ant.png)
 
 ![](./Butterflies.jpg)
+![](./cvarians_queenandsoldier.png)
 
 ![](./FLPlants.jpg)
 
