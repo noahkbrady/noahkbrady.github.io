@@ -1,0 +1,13 @@
+---
+title: "What am I reading?"
+output: 
+  html_document:
+    css: ['CSSBackgrounds.css', 'CSSFonts.css']
+    includes:
+      after_body: footer.html
+---
+
+### The origin of wing polyphenism in ants: an eco-evo-devo perspective
+#### March 3, 2021
+
+[My reading notes](https://docs.google.com/document/d/1OaFCmt3hNOg_Od7MKyjCs1GvNaivHZqebXLPpi6FhWk/edit?usp=sharing)
