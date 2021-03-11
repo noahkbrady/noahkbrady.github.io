@@ -6,6 +6,15 @@ output:
     includes:
       after_body: footer.html
 ---
+
+### Evolution of social insect polyphenism facilitated by the sex differentiation cascade. Klein et al. 2016.  
+#### March 10, 2021
+[My reading notes](https://docs.google.com/document/d/1H9FZP9NpckxVQo8uAmyMoTp5TODqYbo9w2fNnZDUlmY/edit?usp=sharing)
+
+### The evolution of worker caste diversity in social insects. Fjerdingstad & Crozier 2006.  
+#### March 9, 2021
+[My reading notes](https://docs.google.com/document/d/11sKpZP8iYssU4TrFOqeaa_w6OLcyH1UM4FbisTD9mdU/edit?usp=sharing)
+
 ### Soldier determination in ants: a new role for juvenile hormone. Wheeler & Nijhout 1981.  
 #### March 5, 2021
 [My reading notes](https://docs.google.com/document/d/1jqWpLmFYHR6GlRh5BapJ2hELbNeiwLSvOpwcMb8iNaM/edit?usp=sharing)
@@ -16,5 +25,4 @@ output:
 
 ### The origin of wing polyphenism in ants: an eco-evo-devo perspective. Hannah & Abouheif 2021. 
 #### March 3, 2021
-
 [My reading notes](https://docs.google.com/document/d/1OaFCmt3hNOg_Od7MKyjCs1GvNaivHZqebXLPpi6FhWk/edit?usp=sharing)
