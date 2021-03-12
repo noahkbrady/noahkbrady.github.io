@@ -7,6 +7,10 @@ output:
       after_body: footer.html
 ---
 
+### Lack of interruption of the gene network underlying wing polyphenism in an early-branching ant genus. Béhague et al. 2018.  
+#### March 11, 2021
+[My reading notes](https://docs.google.com/document/d/1YoztUYG9BUa4MpMllk9ZxuKsL8Pnz-87DvOnUSC4kvE/edit?usp=sharing)
+
 ### Evolution of social insect polyphenism facilitated by the sex differentiation cascade. Klein et al. 2016.  
 #### March 10, 2021
 [My reading notes](https://docs.google.com/document/d/1H9FZP9NpckxVQo8uAmyMoTp5TODqYbo9w2fNnZDUlmY/edit?usp=sharing)
