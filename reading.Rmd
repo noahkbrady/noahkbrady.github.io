@@ -7,6 +7,14 @@ output:
       after_body: footer.html
 ---
 
+### Hourglass Model for Developmental Evolution of Ant Castes. Tribble and Kronauer 2020.  
+#### March 16, 2021
+[My reading notes](https://docs.google.com/document/d/1LJFPfM0A7-sKwcERLotJq89o2nqhIciZiCuwJxRL1tk/edit?usp=sharing)
+
+### Regulation, development, and evolution of caste ratios in the hyperdiverse ant genus Pheidole. Lillico-Ouachour and Abhouheif 2017.  
+#### March 15, 2021
+[My reading notes](https://docs.google.com/document/d/1FpGHzLePX8JOV1RXT2stKagY-hr7oVclLWGpUze1OQM/edit?usp=sharing)
+
 ### Lack of interruption of the gene network underlying wing polyphenism in an early-branching ant genus. Béhague et al. 2018.  
 #### March 11, 2021
 [My reading notes](https://docs.google.com/document/d/1YoztUYG9BUa4MpMllk9ZxuKsL8Pnz-87DvOnUSC4kvE/edit?usp=sharing)
