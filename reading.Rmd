@@ -7,6 +7,10 @@ output:
       after_body: footer.html
 ---
 
+### Social regulation of a rudimentary organ generates complex worker-caste systems in ants. Rajakumar et al. 2018.  
+#### March 17, 2021
+[My reading notes](https://docs.google.com/document/d/1tejplNiGbgEJbrTdWPIUO5fUvZZ2CK6nkjFyOscqtLI/edit?usp=sharing)
+
 ### Hourglass Model for Developmental Evolution of Ant Castes. Tribble and Kronauer 2020.  
 #### March 16, 2021
 [My reading notes](https://docs.google.com/document/d/1LJFPfM0A7-sKwcERLotJq89o2nqhIciZiCuwJxRL1tk/edit?usp=sharing)
