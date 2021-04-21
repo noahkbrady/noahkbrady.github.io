@@ -1,5 +1,5 @@
 ---
-title: "MEGAN BARKDULL"
+title: "Noah Brady"
 output: 
   html_document:
     css: 'CSSFonts.css'
@@ -18,6 +18,4 @@ h1.title {
 }
 </style>
 
-![](cvarians_queenandsoldier.png)
-
-<center> Insects. Genomics. Complex traits. </center>
+![](IMG_1862.jpeg)
