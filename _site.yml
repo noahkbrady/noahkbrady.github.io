@@ -1,7 +1,7 @@
-name: "Megan Barkdull"
+name: "Noah Brady"
 output_dir: "."
 navbar:
-  title: "Megan Barkdull"
+  title: "Noah Brady"
   left:
     - text: "Home"
       href: index.html
@@ -11,10 +11,5 @@ navbar:
       href: research.html
     - text: "CV"
       href: https://github.com/mbarkdull/CV/blob/master/MeganCV.pdf
-    - text: "What am I reading?"
-      href: reading.html
-    - text: "Art"
-      href: art.html
-    - text: "Contact"
-      href: contact.html
+
 
