@@ -12,12 +12,10 @@ output:
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"headshot.jpeg\" style=\"float: left;width: 300px;padding: 20px\"/>')
+     $head.prepend('<img src=\"IMG_5022.jpeg\" style=\"float: left;width: 300px;padding: 20px\"/>')
    });
 </script>
 
-I am an evolutionary biologist with an interest in the genetics underlying complex traits in ants. I started my graduate studies in August 2019, in the lab of [Dr. Corrie Moreau](http://www.moreaulab.entomology.cornell.edu/people/corrie-moreau/) in the Department of Ecology and Evolutionary Biology at Cornell University. I'm currently investigating patterns of molecular evolution associated with different manifestations of phenotypic plasticity in ants. 
+I am a biologist. Its difficult for me to pin my research interests more specifically, but I am a PhD candidate in the Department of Ecology and Evolutionary Biology at Cornell University, so I'll narrow it down to this: I am interested in how forms in nature arise. I was in our insect collection the other day, and I pulled out a drawer of butterflies with transluscent windows on their wings. These aren't artifacts of the specimens being old, they formed naturally during the animals development, and, more ultimately, they formed over millions of years, through natural selection, to have these unique, beautiful, functional adaptations. It is the combination of the proximate (development) and ultimate (evolution) causes of phenotypic variation that drive my research. I don't actually study butterflies with clear wings, I study those with big eyespots and other colorful patterns, and I use labratory and computational methods to tease out how these patterns arise. 
 
-If I’m not running analyses and writing scripts, I might be found [thinking about, and working toward,](https://docs.google.com/document/d/1CmyBVG3H-OBqUIomPKoBPwLVUdLC1WWtvhH836ZeJ7o/edit?usp=sharing) making ecology and evolutionary biology a better, more anti-racist space through my departmental roles as a graduate student, member of Cornell EEB Seminar series committee, and Cornell EEB Graduate Student Association co-president. 
-
-I also enjoy hiking, nature photography, [creating art](art.html), and cooking. 
+Other than that, as with most people in my discipline, I love to explore nature. I also like to take pictures of nature, especially really close up ones that let you see things from a different perspective. In the same vein, I like to write about science and nature, and I hope to add some casual essays to this website in the future. For more up-to-date info and updates, you can follow me on Twitter @Noahkbrady . 

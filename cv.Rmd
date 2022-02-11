@@ -7,4 +7,4 @@ output:
       after_body: footer.html
 ---
 
-Please click [HERE](Barkdull_CV_May2020.pdf) for my CV. 
+Please click [HERE](NoahBradyCV.pdf) for my CV. 
