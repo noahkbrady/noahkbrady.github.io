@@ -1,5 +1,5 @@
 ---
-title: "Noah Brady"
+title: "Noah Kenneth Brady"
 output: 
   html_document:
     css: 'CSSFonts.css'
