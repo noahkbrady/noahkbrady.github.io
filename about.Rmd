@@ -7,17 +7,37 @@ output:
       after_body: footer.html
 ---
 
-<!-- This adds my headshot, floating to the left of the text and with 20 pixels of padding around it.  -->
+<!-- This adds my photo, floating to the left of the text and with 10 pixels of padding around it. margin-top moves the image down by 50px.  -->
 
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"IMG_5022.jpeg\" style=\"float: left;width: 300px;padding: 20px\"/>')
+     $head.prepend('<img src=\"DSC_2362.JPG\" style=\"float: right;width: 400px;padding: 10px; margin-top: 50px\"/>')
    });
 </script>
 
-I’m an evolutionary biologist currently getting my PhD at Cornell University. I love all kinds of integrative biology, the type of research that uses data from a wide range of sources to tell stories about interesting natural history phenomena. I study how butterflies evolved the ability to convert seasonal environmental signals into adaptive changes in color patterns: i.e. the evolution of adaptive developmental plasticity. This research has taken me from the field to the bench, where I use a broad range of genomic, epigenetic, and functional methods to thoroughly describe these processes. When not in the lab, I enjoy hiking, snowshoeing, gardening, photography, and cooking… so basically your typical EEB grad student. Please reach out if you would like to talk about my research or have any questions about the methods I use! 
+<left> Email: nkb53@cornell.edu X: [@Noahkbrady](https://twitter.com/Noahkbrady) </left>
+<br>
+
+I am a PhD candidate at Cornell University, where I study evolutionary developmental biology. I'm passionate about integrative biology, the type of research that uses data from disparate sources and disciplines to expand our collective understanding of natural history phenomena. My research combines genetic mapping with epigenetics, transcriptomics, and functional-genetics to describe the developmental and evolutionary mechanisms that produce morphological diversity in insects. When not in the lab, I enjoy hiking, running, snowshoeing, gardening, photography, and cooking… many traits of your typical EEB grad student. Please reach out if you would like to talk about my research or have any questions about the methods I use! 
+
+---
+
+## Current Research
+Why do traits vary across environmental conditions? The answer we can give with the most certainty, that traits vary across environments due to the contributions of local adaptation and phenotypic plasticity, is an oversimplification that begs to be explicated. The answer can expand in both an ultimate and proximate direction: traits vary across environments because of their evolutionary history and because of how they incorporate the environment into their development. Because the particular state of a trait (for example, the color of a butterfly's wing) is a composite of the environmental context that it developed in and the evolutionary context that shaped its genome, answering these questions requires understanding the interplay of the genetic and environmental basis of a trait as mediated by development. Understanding how environmental signals change development, and how these changes become adaptive is a primary objective in the field of evolutionary developmental biology. But more broadly this question underpins the effort to map genotypes to phenotypes, to understand the elaboration of complex traits, and to describe how traits mediate interactions with the environment. 
+
+In my PhD, I am studying how seasonal plasticity evolves in natural systems. My research falls under two projects: 1) how temperature and photoperiod act as switches during the development of color patterns in the common buckeye butterfly (Junonia coenia) and 2) how the sensitivity to those cues has evolved between locally-adapted populations of J. coenia. Together, these projects use an integrated approach to expand our understanding of the ultimate and proximate causes of trait diversity in animals.
+<br>
+<br>
+
+#### Development of plasticity 
+In most non-model insects, our understanding of how environmental stimuli change development is limited, but often involves the induction of endocrine signals that switch on or off downstream developmental pathways. In order to formulate hypotheses about how plasticity evolves, we must first understand how environmentally-sensitive endocrine signals change development. In J. coenia, seasonal changes in temperature and photoperiod alter the presence of the molting hormone ecdysone during a period of pupal development critical to color pattern formation: in the summer, the presence of ecdysone leads to the development of tan wings and small eyespots, while in the fall, the absence of ecdysone leads to the development of red wings and large eyespots. My first project cobines transcriptomics and chromatin profiling with ecdysone manipulations throughout development to describe how this endocrine signal acts as a developmental switch. 
+<br>
+<br>
+
+#### Evolution of Plasticity 
+How does selection act on plastic traits? A growing body of research shows that the degree of plasticity of a trait (whether a trait changes its state dramatically between environmental conditions or just a little) is evolutionarily labile, but how a trait that relies on an environmental signal can become locally adapted is unknown. The degree of seasonal wing color plasticity varies between populations of buckeye butterflies. I’m currently using genetic mapping, transcriptomics, and CRISPR-cas9 to interrogate the genetic basis of this variation.
+
 
 <span style="color: #000000;">.</span> 
 
-<center> Email: nkb53@cornell.edu Twitter [@Noahkbrady](https://twitter.com/Noahkbrady) </center>

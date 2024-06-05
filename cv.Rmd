@@ -6,4 +6,4 @@ output:
     includes:
       after_body: footer.html
 ---
-<embed src="./NoahBradyCV.pdf" type="application/pdf" width="100%" height="800px">
+<iframe src="./NoahBradyCV.pdf" type="application/pdf" width="100%" height="800px">
