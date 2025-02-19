@@ -19,7 +19,7 @@ output:
 <left> Email: nkb53@cornell.edu X: [@Noahkbrady](https://twitter.com/Noahkbrady) </left>
 <br>
 
-I am a PhD candidate at Cornell University, where I study evolutionary developmental biology. I’m passionate about using data from disparate sources and disciplines to expand our understanding of biological processes. My research combines genetic mapping with epigenetics, transcriptomics, and functional-genetics to describe the developmental and evolutionary mechanisms that produce morphological diversity in insects.
+I am a PhD candidate at Cornell University, where I study evolutionary developmental biology. I’m passionate about using data from disparate sources and disciplines to expand our understanding of biological processes. My research combines genetic mapping with epigenetics, transcriptomics, and functional-genetics to describe the developmental and evolutionary mechanisms that produce morphological diversity.
 
 I am the fortunate recipient of opportunities that allow me to pursue a career that I’m passionate about, and I believe that everybody should have these same opportunities. I’m committed to using the position I’m in to promote equity within the natural sciences, which led me to serve as a co-leader for Cornell Diversity Preview Weekend (now Consider Cornell) for three years. In this position, I worked alongside many talented graduate students to organize annual events designed to lower the barrier of entry into graduate school for students from underrepresented backgrounds. In addition to this work, I helped secure institutional support for Cornell Diversity Preview Weekend and served on my department’s diversity, equity, and inclusion committee to promote equitable hiring practices. 
 
